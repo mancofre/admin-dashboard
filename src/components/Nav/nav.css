@@ -46,7 +46,7 @@ NAV
 .header-nav .notifications .notifications-item{
     display: flex;
     align-items: center;
-    padding: 5px 5px;
+    padding: 10px 15px;
     transition: 0.3s;
 }
 
@@ -76,7 +76,7 @@ NAV
 }
 
 .header-nav .messages .message-item{
-    padding: 5px 5px;
+    padding: 10px 15px;
     transition: 0.3s;
 }
 
@@ -112,10 +112,6 @@ NAV
     top: 8px !important;
 }
 
-.header-nav .profile .dropdown-header{
-    text-align: center;
-}
-
 .header-nav .profile .dropdown-header h6{
     font-size: 18px;
     margin-bottom: 0;
@@ -129,7 +125,7 @@ NAV
 
 .header-nav .profile .dropdown-item{
     font-size: 14px;
-    padding: 0 9px;
+    padding: 10px 15px;
     transition: 0.3s;
 }
 

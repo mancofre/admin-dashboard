@@ -5,12 +5,14 @@ import 'remixicon/fonts/remixicon.css';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.min.js';
+import SideBar from './components/SideBar/SideBar';
 
 function App() {
-  return (    
-      <Header />
-   
-  );
+  return ( <>
+              <Header />
+              <SideBar />
+          </> 
+         );
 }
 
 export default App;
