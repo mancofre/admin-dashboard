@@ -31,6 +31,11 @@ NAV
     font-weight: 600;
 }
 
+.bi-circle::before {   
+    font-size: x-small;
+    margin-right: 5px;
+}
+
 .header-nav .badge-number{
     position: absolute;
     inset: -2px -5px auto auto;

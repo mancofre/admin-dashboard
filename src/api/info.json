@@ -1,0 +1,181 @@
+{
+    "cards":[
+        {
+            "_id": 1,
+            "name": "Sales",
+            "icon": "bi bi-cart",
+            "amount": 145,
+            "percentage": 0.12,
+            "active": true
+        },
+        {
+            "_id": 2,
+            "name": "Revenue",
+            "icon": "bi bi-currency-dollar",
+            "amount": 3246,
+            "percentage": 0.08,
+            "active": false
+        },
+        {
+            "_id": 3,
+            "name": "Customers",
+            "icon": "bi bi-people",
+            "amount": 1244,
+            "percentage": -0.11,
+            "active": false
+        }
+    ],
+    "news": [
+        {
+            "_id": 1,
+            "img": "../assets/item/new-1.jpg",
+            "title": "Nihil blanditiss at  in nihil autem",
+            "subtitle": "Sit recusandae  nom aspernatur laboratoriosa. Quia anim  eligendi sed  ut harum",
+            "category": "abc"
+        },
+        {
+            "_id": 2,
+            "img": "../assets/item/new-2.jpg",
+            "title": "Nihil blanditiss at  in nihil autem",
+            "subtitle": "Sit recusandae  nom aspernatur laboratoriosa. Quia anim  eligendi sed  ut harum",
+            "category": "abc"
+        },
+        {
+            "_id": 3,
+            "img": "../assets/item/new-3.jpg",
+            "title": "Nihil blanditiss at  in nihil autem",
+            "subtitle": "Sit recusandae  nom aspernatur laboratoriosa. Quia anim  eligendi sed  ut harum",
+            "category": "abc"
+        },
+        {
+            "_id": 4,
+            "img": "../assets/item/new-4.jpg",
+            "title": "Nihil blanditiss at  in nihil autem",
+            "subtitle": "Sit recusandae  nom aspernatur laboratoriosa. Quia anim  eligendi sed  ut harum",
+            "category": "abc"
+        }
+    ],
+    "topselling": [
+        {
+            "_id": 1,
+            "preview": "../assets/item/product-1.jpg",
+            "name": "Ut instoes palotees unmona",
+            "price": 64,
+            "sold": 123
+        },
+        {
+            "_id": 2,
+            "preview": "../assets/item/product-2.jpg",
+            "name": "Ut instoes palotees unmona",
+            "price": 67,
+            "sold": 342
+        },
+        {
+            "_id": 3,
+            "preview": "../assets/item/product-3.jpg",
+            "name": "Ut instoes palotees unmona",
+            "price": 59,
+            "sold": 145
+        },
+        {
+            "_id": 4,
+            "preview": "../assets/item/product-4.jpg",
+            "name": "Ut instoes palotees unmona",
+            "price": 35,
+            "sold": 101
+        },
+        {
+            "_id": 5,
+            "preview": "../assets/item/product-5.jpg",
+            "name": "Ut instoes palotees unmona",
+            "price": 66,
+            "sold": 127
+        }
+    ],
+    "recentsales": [
+        {
+            "_id": 1,
+            "number": "#2457",
+            "customer": "Brandon Jacob",
+            "product": "At praesentium minu",
+            "price": 64,
+            "status": "Approved"
+        },
+        {
+            "_id": 2,
+            "number": "#24557",
+            "customer": "Andre Lyon",
+            "product": "At praesentium minu",
+            "price": 47,
+            "status": "Pending"
+        },
+        {
+            "_id": 3,
+            "number": "#2049",
+            "customer": "Juan Peris",
+            "product": "At praesentium minu",
+            "price": 147,
+            "status": "Approved"
+        },
+        {
+            "_id": 4,
+            "number": "#2644",
+            "customer": "Christian Lejy",
+            "product": "At praesentium minu",
+            "price": 67,
+            "status": "Rejected"
+        },
+        {
+            "_id": 5,
+            "number": "#3592",
+            "customer": "Tomas Mercado",
+            "product": "At praesentium minu",
+            "price": 135,
+            "status": "Approved"
+        }
+    ],
+    "recentactivity":[
+        {
+            "_id": 1,
+            "time": "32 min",
+            "color": "text-success",
+            "content": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+            "highlight": "explicabo officiis"
+        },
+        {
+            "_id": 2,
+            "time": "56 min",
+            "color": "text-danger",
+            "content": "Vestibulum ut diam vitae risus ultrices sollicitudin",
+            "highlight": ""
+        },
+        {
+            "_id": 3,
+            "time": "2 hrs",
+            "color": "text-primary",
+            "content": "Proin euismod dignissim ultricies. Maecenas blandit nisl elit",
+            "highlight": ""
+        },
+        {
+            "_id": 4,
+            "time": "1 day",
+            "color": "text-info",
+            "content": " Sed vitae urna eu mi vehicula mattis",
+            "highlight": "occaecati voluptatem"
+        },
+        {
+            "_id": 5,
+            "time": "2 day",
+            "color": "text-warnig",
+            "content": "Nullam lobortis, lectus id rutrum fermentum",
+            "highlight": ""
+        },
+        {
+            "_id": 6,
+            "time": "4 weeks",
+            "color": "text-muted",
+            "content": "Vestibulum consectetur blandit sapien at sagittis",
+            "highlight": ""
+        }
+    ]
+}
