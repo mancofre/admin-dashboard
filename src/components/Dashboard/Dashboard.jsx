@@ -5,6 +5,9 @@ import Reports from '../Reports/Reports';
 import RecentSales from '../RecentSales/RecentSales';
 import TopSelling from '../TopSelling/TopSelling';
 import RecentActibity from '../RecentActivity/RecentActivity';
+import BudgetReport from '../BudgetReport/BudgetReport';
+import WebTraffic from '../WebTraffic/WebTraffic';
+import News from '../News/News';
 
 const Dashboard = () => {
   const [cards, setCards] = useState([]);
@@ -44,6 +47,9 @@ const Dashboard = () => {
             </div>
             <div className='col-lg-4'>
                   <RecentActibity />
+                  <BudgetReport />
+                  <WebTraffic />
+                  <News />
             </div>
         </div>
     </section>

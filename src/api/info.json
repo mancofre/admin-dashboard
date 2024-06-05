@@ -28,28 +28,28 @@
     "news": [
         {
             "_id": 1,
-            "img": "../assets/item/new-1.jpg",
+            "img": "../assets/item/new-1.jfif",
             "title": "Nihil blanditiss at  in nihil autem",
             "subtitle": "Sit recusandae  nom aspernatur laboratoriosa. Quia anim  eligendi sed  ut harum",
             "category": "abc"
         },
         {
             "_id": 2,
-            "img": "../assets/item/new-2.jpg",
+            "img": "../assets/item/new-2.jfif",
             "title": "Nihil blanditiss at  in nihil autem",
             "subtitle": "Sit recusandae  nom aspernatur laboratoriosa. Quia anim  eligendi sed  ut harum",
             "category": "abc"
         },
         {
             "_id": 3,
-            "img": "../assets/item/new-3.jpg",
+            "img": "../assets/item/new-3.jfif",
             "title": "Nihil blanditiss at  in nihil autem",
             "subtitle": "Sit recusandae  nom aspernatur laboratoriosa. Quia anim  eligendi sed  ut harum",
             "category": "abc"
         },
         {
             "_id": 4,
-            "img": "../assets/item/new-4.jpg",
+            "img": "../assets/item/new-4.jfif",
             "title": "Nihil blanditiss at  in nihil autem",
             "subtitle": "Sit recusandae  nom aspernatur laboratoriosa. Quia anim  eligendi sed  ut harum",
             "category": "abc"

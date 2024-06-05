@@ -14,14 +14,14 @@ ACTIVITY
     min-width: 64px;
 }
 
-.dashboard .activity .activity .activity-label::before{
+.dashboard .activity .activity-item .activity-label::before{
     content: '';
     position: absolute;
     right: -11px;
     width: 4px;
     top: 0;
     bottom: 0;
-    background-color: #eceefe;
+    background-color: #eceefe ;
 }
 
 .dashboard .activity .activity-item .activity-badge{
